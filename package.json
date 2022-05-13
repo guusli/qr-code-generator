@@ -1,0 +1,12 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gustav Lindberg <gustav.lindberg@kronansapotek.se>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "qrcode": "^1.5.0"
+  }
+}
